@@ -20,6 +20,10 @@ class Message(BaseModel):
     history : list = []
     
 
+@app.get("/")
+def read_root():
+    return {"message": "Hi This is Trix-Bot the officaial assistant of TechTrix 2025"}
+
 @app.post("/chat")
 async def chat(message: Message):
     try:
