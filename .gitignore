@@ -1,3 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+venv/
+.env
+
+# Data
+data/training_data.txt
+
+# Docker
+docker/.env
+
+# IDE
+.vscode/
+.idea/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

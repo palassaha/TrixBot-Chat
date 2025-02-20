@@ -1,0 +1,8 @@
+
+**/__pycache__
+**/.git
+**/.vscode
+**/.idea
+**/tests
+**/examples
+*.pdf
