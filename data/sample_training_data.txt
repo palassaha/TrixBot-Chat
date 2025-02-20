@@ -1,0 +1,111 @@
+
+TechTrix Event Details:
+
+
+Tentative Timeline
+
+| **Event Name**                 | **Date**          | **Time**         | **Location**                                      |
+|--------------------------------|------------------|-----------------|--------------------------------------------------|
+| **Hackathon by Exavalu**       | March 5, 2025   | 10 AM - 5 PM    | RCCIIT New Campus, Kolkata                       |
+| **Tech Quiz (Prelims)**        | March 6, 2025   | 2 PM - 5 PM     | N315, N316, N317, N314A, N312B                   |
+| **Mind’s Eye**                 | March 6, 2025   | 10 AM - 5 PM    | IT Seminar Room (N210)                           |
+| **Crack The Interview**        | March 6, 2025   | 10 AM - 5 PM    | CSE Seminar Room (N305, N319)                    |
+| **Bug Hunt**                   | March 6, 2025   | 10 AM - 2 PM    | Computer Labs (N315, N316)                       |
+| **Valorant (Prelims)**         | March 6, 2025   | 10 AM - 6 PM    | N217, N218                                       |
+| **E-Football (Prelims)**       | March 6, 2025   | 11 AM - 5 PM    | N110                                             |
+| **FIFA 24 (Prelims)**          | March 6, 2025   | 10 AM - 5 PM    | Smart Classroom (N308)                           |
+| **Maze Solver (Prelims)**      | March 6, 2025   | 10 AM - 6 PM    | Classroom (N009)                                 |
+| **Pacman (Prelims)**           | March 6, 2025   | 10 AM - 6 PM    | Classroom (N012)                                 |
+| **Robo Sumo (4 KG) (Prelims)** | March 6, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Road Rash (Prelims)**        | March 6, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Need For Speed (Prelims)**   | March 6, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Final Kick (Prelims)**       | March 6, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Fandom Quiz**                | March 7, 2025   | 10 AM - 5 PM    | Smart Classroom (N212)                           |
+| **Build The Electro-Bricks & Digital Circuit** | March 7, 2025 | 1 PM - 5 PM | Computer Labs (N312B, N314A)                     |
+| **Codathon (Prelims)**         | March 7, 2025   | 10 AM - 1 PM    | N315, N316, N317, N314A                          |
+| **Tech Quiz (Finals)**         | March 7, 2025   | 1 PM - 2 PM     | N219                                             |
+| **Capture The Flag (Prelims)** | March 7, 2025   | 2 PM - 5 PM     | Computer Labs (N315, N316, N317)                 |
+| **Valorant (Finals)**          | March 7, 2025   | 10 AM - 6 PM    | N217, N218                                       |
+| **E-Football (Finals)**        | March 7, 2025   | 11 AM - 5 PM    | N110                                             |
+| **FIFA 24 (Finals)**           | March 7, 2025   | 10 AM - 5 PM    | Smart Classroom (N308)                           |
+| **Maze Solver (Finals)**       | March 7, 2025   | 10 AM - 6 PM    | Classroom (N009)                                 |
+| **Pacman (Finals)**            | March 7, 2025   | 10 AM - 6 PM    | Classroom (N012)                                 |
+| **Robo Sumo (4 KG) (Finals)**  | March 7, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Road Rash (Finals)**         | March 7, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Need For Speed (Finals)**    | March 7, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Final Kick (Finals)**        | March 7, 2025   | 10 AM - 6 PM    | Football Ground, Classroom (N011)                |
+| **Mortal Kombat (8 KG) (Prelims)** | March 7, 2025 | 2 PM - 6 PM  | Football Ground, Classroom (N011)                |
+| **Code & Seek (Prelims & Finals)** | March 8, 2025 | 10 AM - 5 PM | Computer Labs (N219, N217, N218, N220)           |
+| **Codathon (Finals)**          | March 8, 2025   | 10 AM - 1 PM    | N315, N316                                       |
+| **Software Development (Web-App & AI-Web3)** | March 8, 2025 | 10 AM - 5 PM | Computer Labs (N312B, N314A)                     |
+| **Capture The Flag (Finals)**  | March 8, 2025   | 2 PM - 5 PM     | Computer Labs (N315, N316, N317)                 |
+| **Mortal Kombat (8 KG) (Finals)** | March 8, 2025 | 10 AM - 6 PM  | Football Ground, Classroom (N011)                |
+| **BGMI (Duo & Squad)**         | March 8, 2025   | 10 AM - 5 PM    | Smart Classroom (N212)                           |
+| **Photography & Reel Content Submission** | Till March 8, 2025 | 11:59 PM | Online Submission                                 |
+
+
+
+
+Event Categories: 
+
+| **Category**       | **Conveners**             | **Event**                                    | **Coordinators**        | **Volunteers**               |
+|--------------------|--------------------------|----------------------------------------------|-------------------------|------------------------------|
+| **Automata**       | Soumyajit Biswas         | Build the Electro-Bricks & Digital Circuit  | Surjendu Manna         | Kankona Chakraborty, Sreejit Mondal |
+|                    |                          | Bug Hunt                                    | Sarmistha Moharer      | Debjoy Sarkar, Nandita Paul, Antara Karmakar |
+|                    | Anamitra Sengupta        | Capture the Flag                            | Swapnamoy Ghosh        | Satyam Kumar Jha, Prachi Ghosh |
+|                    |                          | Codathon                                   | Dibakar Banerjee       | Smaranika Porel, Trishul Bose |
+| **Out of The Box** | Achyut Kundu             | Tech Quiz                                  | Diptodeep Biswas       | Rivu Chatterjee, Harsh Prakash, Bhumika Tewari, Soumyadeep Basu, Debarati Seal |
+|                    |                          | Code and Seek                              | Anish Mukherjee        | Amaya Mondal, Swastik Bhattacharyya, Tanisa Dey, Prerna Kumari |
+|                    | Rajdeep Biswas           | Shutterscape                               | Sebantika Guin         | Shoptorshi Mondal, Bhumika Das |
+|                    |                          | Fandom Quiz                                | Purbasha Halder        | Swastika Karmakar, Kalpa Das, Aritree Saha |
+|                    |                          | Crack the Interview                        | Sunanda Das            | Samprit Rup, Sumana Bhunia, Aatreyee Misra |
+| **Flagship**       | Arghya Dutta             | Software Development – Web/App/Web3        | Pratyush Pal           | Sutanuka Chakraborty, Soumyaraj Bag, Debayudh Basu, Shreya Shaw |
+|                    | Nasiruddin Thander       | Software Development – AI/ML               | Palas Saha             | Shubhankar Chakrabarti, Shantanu Mukherjee, Rishi Paul |
+|                    |                          | Mind’s Eye                                 | Aditya Roy             | Megha Sardar, Aniruddha Pal, Swastika Pramanik |
+| **Gaming**         | Rishav Aich              | Valorant                                   | Soumyaraj Sarkar       | Rajarshi Das, Romit Guha, Monaj Barman |
+|                    |                          | BGMI – TDM & SQUAD                         | Shreya Dutta           | Sayandeep Sen, Soham Mallick, Sraman Pati |
+|                    |                          | FIFA 24                                    | Shayak Pal             | Omi Dhir, Bibasan Mitra, Binay Dhar |
+|                    |                          | E-Football                                 | Agnit Pradhan          | Kanchan Debnath, Abhijit Chaudhuri, Sayan Kumar Das |
+| **Robotics**       | Antara Dey Sarkar        | Mortal Kombat (8kg)                        | Siddharth Bhattacharjee | Raushan Pandey, Ritwam Ray, Somsubhra Misra, Tarif Chowdhury, Sagnik Bose |
+|                    | Adrij Ghosh              | Robo Sumo (4kg)                            | Suvam Chanda           | Rupam Mondal, Kanishk Jain, Somen Saha |
+|                    | Shreya Shome             | Robo Soccer                                | Sreya Sahoo            | Sanket Deyasi, Titash Majumder, Sagnik Paul, Adrika Mukherjee |
+|                    |                          | Road Rash                                  | Pratik Chowdhury       | Ritwam Ray, Shriza Baidya, Sourodeep Paul, Shreekant Pathak |
+|                    |                          | Need For Speed                             | Soham Guin             | Sayani Halder, Sourasish Biswas, Aheli Saha, Aditya Chakraborty, Diptish De |
+|                    |                          | Maze Solver                                | Ankit Das              | Anirban Majumder, Bratati Basu, Megha Santra |
+|                    |                          | Pacman                                     | Hirak Sabui            | Archisha Upadhyaya, Arijit Sarkar, Arpan Aon |
+
+Prize Pool
+
+| **Event**                                      | **1st Prize**        | **2nd Prize**        | **Total**  |
+|-----------------------------------------------|---------------------|---------------------|------------|
+| **Build the Electro-Bricks & Digital Circuits** | ₹ 300               | ₹ 200               | ₹ 500      |
+| **Bug Hunt (Speedy Debugging)**               | ₹ 400               | ₹ 200               | ₹ 600      |
+| **Capture The Flag**                          | ₹ 500               | ₹ 300               | ₹ 800      |
+| **Codathon**                                  | ₹ 500               | ₹ 300               | ₹ 800      |
+| **Tech Quiz**                                 | ₹ 400               | ₹ 200               | ₹ 600      |
+| **Code and Seek**                             | ₹ 400               | ₹ 200               | ₹ 600      |
+| **Shutterscape**                              | ₹ 300               | ₹ 200               | ₹ 500      |
+| **Mind’s Eye**                                | ₹ 1200              | ₹ 800               | ₹ 2000     |
+| **Fandom Quiz**                               | ₹ 500               | ₹ 300               | ₹ 800      |
+| **Crack The Interview**                       | ₹ 500               | ₹ 300               | ₹ 800      |
+| **Software Development (Web, App, AIML, Blockchain)** | ₹ 1500              | ₹ 1000              | ₹ 2500     |
+| **Valorant**                                  | ₹ 5000              | ₹ 3000              | ₹ 8000     |
+| **BGMI** (DUO)                                | ₹ 600               | ₹ 400               | ₹ 2500     |
+| **BGMI** (TEAM)                               | ₹ 900               | ₹ 600               | ₹ 2500     |
+| **FIFA 24**                                   | ₹ 800               | ₹ 500               | ₹ 1300     |
+| **E-Football (PES) SOLO**                     | ₹ 600               | ₹ 400               | ₹ 2500     |
+| **E-Football (PES) TEAM**                     | ₹ 900               | ₹ 600               | ₹ 2500     |
+| **Road Rash**                                 | ₹ 5000              | ₹ 3000              | ₹ 8000     |
+| **Need For Speed**                            | ₹ 5000              | ₹ 3000              | ₹ 8000     |
+| **Pacman**                                    | ₹ 1500              | ₹ 1000              | ₹ 2500     |
+| **Maze Solver**                               | ₹ 1500              | ₹ 1000              | ₹ 2500     |
+| **Robo War (4 kg)**                           | ₹ 6000              | ₹ 4000              | ₹ 10000    |
+| **Robo War (8 kg)**                           | ₹ 20000             | ₹ 10000             | ₹ 20000    |
+| **Final Kick**                                | ₹ 5000              | ₹ 3000              | ₹ 8000     |
+| **Total**                                     |                     |                     | **₹ 83,800** |
+
+
+
+
+
+
